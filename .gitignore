@@ -1,4 +1,4 @@
-.idea
+react-the-complete-guide/.idea
 **/node_modules
 **/.eslintcache
 **/package-lock.json
