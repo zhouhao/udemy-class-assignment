@@ -4,3 +4,4 @@ react-the-complete-guide/.idea
 **/package-lock.json
 .DS_Store
 **/dist
+*.iml
