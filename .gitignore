@@ -5,3 +5,4 @@ react-the-complete-guide/.idea
 .DS_Store
 **/dist
 *.iml
+.idea
